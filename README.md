@@ -196,12 +196,6 @@ npm run dev
 
 ---
 
-## 📹 Demo Video
-
-👉 *(Add your 2–5 minute demo video link here)*
-
----
-
 ## 🧪 Key Highlights
 
 * Clean REST API architecture

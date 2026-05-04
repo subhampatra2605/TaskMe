@@ -171,7 +171,7 @@ const SignUp = () => {
 
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Admin Invite Token
+                  Admin Invite Token (Put any 4 digits if not admin)
                 </label>
 
                 <div className="relative">
